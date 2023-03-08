@@ -15,14 +15,14 @@ To install the game, follow these steps:
 To start the game, run the following command in your terminal:
 - `node ./starter/game.js`
 
-This will launch the game and display the game board. You can then take turns playing against the computer by selecting the cell you want to place your mark in.
+This will launch the game and display the game board. You can then take turns playing against a second player by selecting the cell you want to place your mark in.
 
 ## Features
 
 - Command-line based interface for easy use
 - Uses the Screen API for improved display of the game board
 - Simple and intuitive gameplay mechanics
-- Allows you to play against the computer
+- Allows you to play against a second player
 
 ## Contributing
 
