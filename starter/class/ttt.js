@@ -17,7 +17,6 @@ class TTT {
     Screen.initialize(3, 3);
     Screen.setGridlines(true);
 
-    // Replace this with real commands
     Screen.addCommand(`up`, `Move Up`, this.cursor.up.bind(this.cursor));
     Screen.addCommand(`down`, `Move Down`, this.cursor.down.bind(this.cursor));
     Screen.addCommand(`left`, `Move Left`, this.cursor.left.bind(this.cursor));
@@ -99,11 +98,6 @@ class TTT {
     }
 
 
-
-    // Return 'X' if player X wins
-    // Return 'O' if player O wins
-    // Return 'T' if the game is a tie
-    // Return false if the game has not ended
 
 
 
