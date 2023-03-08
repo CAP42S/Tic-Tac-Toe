@@ -6,14 +6,14 @@ This is a command-line based Tic Tac Toe game built using JavaScript and the Scr
 
 To install the game, follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/tic-tac-toe.git`
+1. Clone this repository to your local machine using `https://github.com/CAP42S/tic-tac-toe.git`
 2. Navigate to the project directory using `cd tic-tac-toe`
 3. Install the dependencies using `npm install`
 
 ## Usage
 
 To start the game, run the following command in your terminal:
-- `npm start`
+- `node ./starter/game.js`
 
 This will launch the game and display the game board. You can then take turns playing against the computer by selecting the cell you want to place your mark in.
 
